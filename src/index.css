@@ -1,0 +1,25 @@
+:root {
+  --backgroud-01: #e0e0dd;
+  --backgroud-02: #f0f2f5;
+  --backgroud-03: #00a884;
+  --font-color-01: #fff;
+  --font-color-02: #000;
+  --font-color-03: #54656f;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
